@@ -1,0 +1,12 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 5px;
+}
