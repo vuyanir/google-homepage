@@ -10,6 +10,10 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 input {
     margin: 15px;
 }
